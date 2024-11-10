@@ -1,3 +1,5 @@
+![Bismillah](./assets/images/bismillah with frame_6612263.png)
+
 ## Hi there 👋
 
 👨‍💻 I’m a full-stack developer with hands-on experience across the modern tech stack, including React.js, Laravel, Node.js, MongoDB, and MySQL. From intuitive front-end interfaces to robust back-end solutions, I’m all about building applications that make a difference.
