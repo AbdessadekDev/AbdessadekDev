@@ -1,4 +1,4 @@
-![Bismillah](./assets/images/bismillah with frame_6612263.png)
+![Bismillah](https://github.com/AbdessadekDev/AbdessadekDev/blob/main/assets/images/bismillah%20with%20frame_6612263.png)
 
 ## Hi there 👋
 
