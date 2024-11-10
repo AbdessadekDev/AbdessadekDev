@@ -1,4 +1,4 @@
-<img src="https://github.com/AbdessadekDev/AbdessadekDev/blob/main/assets/images/bismillah%20with%20frame_6612263.png" alt="bismillah" style="width: 300px;" />
+<img src="https://github.com/AbdessadekDev/AbdessadekDev/blob/main/assets/images/github-background-profile.gif" alt="bismillah" style="width: 100%;" />
 
 ## Hi there 👋
 
